@@ -5,10 +5,10 @@ cybersecurity measures. Proficient in incident response, vulnerability assessmen
 implementation of security controls. Skilled in troubleshooting, maintaining security systems, and
 adapting to dynamic environments to effectively address evolving threats.
 
-Vishchaudhary2001994@gmail.com
-9650294870
-https://www.linkedin.com/in/vishal-chaudhary-224701116
-Ghaziabad, UP
+* Vishchaudhary2001994@gmail.com
+* Ph-9650294870
+* https://www.linkedin.com/in/vishal-chaudhary-224701116
+* Ghaziabad, UP
 
 ### WORK EXPERIENCE
 
