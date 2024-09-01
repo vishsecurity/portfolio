@@ -1,5 +1,3 @@
-# Vishal Chaudhary
-
 Information Security Consultant with 3.5 years of experience in managing and enhancing
 cybersecurity measures. Proficient in incident response, vulnerability assessments, and the
 implementation of security controls. Skilled in troubleshooting, maintaining security systems, and
