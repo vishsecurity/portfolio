@@ -60,12 +60,12 @@ Executive Network Operator 10/2021- 03/2022
 * Check VLANs connectivity between Nokia MPLS and Huawei access switch and OLT.
 
 ### EDUCATION
-Bachelor of Technology - 7 GP July 2018
-Cisco Certified Network Associate.
-Cisco Certified Network Associate.
-SecOps Certified Cloud Security Practitioner.
-SecOps Certified AppSec Practitioner.
-(ISC) Certified in Cyber Security.
+* Bachelor of Technology - 7 GP July 2018
+* Cisco Certified Network Associate.
+* Cisco Certified Network Associate.
+* SecOps Certified Cloud Security Practitioner.
+* SecOps Certified AppSec Practitioner.
+* (ISC) Certified in Cyber Security.
 
 ### SKILLS
 * Incident Management: Hands-on experience in managing security incidents.
